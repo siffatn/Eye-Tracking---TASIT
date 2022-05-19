@@ -1,5 +1,5 @@
-%Modified the read_data.m to create a function to just have the necessary
-%variables
+%Modified the read_data_fn_correlation to create a function to load the
+%data rows for which to calculate correlation coefficient
 clear all;
 load('Part3_labeling.mat'); %all labels for part3
 %%change the column number according to the video
