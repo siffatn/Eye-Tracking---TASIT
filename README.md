@@ -1,7 +1,7 @@
 # Eye-Tracking---TASIT
 First remove the files which have missing data using "droppingmissingfile.m"
 
-Add extra features to the data using "add_vertical_horizontal.m, add_disconjugate_eye.m,add_saccadic_velocity.m"
+Add extra features to the data using "add_vertical_horizontal.m, add_disconjugate_eye.m,add_saccadic_velocity.m, add_facial_landmarks_distance_from_fixation.m, add_facial_landmarks_distance_from_center.m"
 
 To find correlated frames, use "find_correlation_3sec.m", the program has dependency on "read_data_fn_correlation.m, pointbiserial.m"
 
