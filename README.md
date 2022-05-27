@@ -3,7 +3,7 @@ First remove the files which have missing data using "droppingmissingfile.m"
 
 Add extra features to the data using "add_vertical_horizontal.m, add_disconjugate_eye.m,add_saccadic_velocity.m"
 
-To find correlatied frames, use "find_correlation_3sec.m", the program has dependency on "read_data_fn_correlation.m, pointbiserial.m"
+To find correlated frames, use "find_correlation_3sec.m", the program has dependency on "read_data_fn_correlation.m, pointbiserial.m"
 
 Then for creating feature for Video10, use "creating_feature_vector_for_classification.m", it has dependency on "read_data_video10_vectorized_r01.m"
 
